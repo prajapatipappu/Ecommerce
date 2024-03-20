@@ -76,25 +76,24 @@ Below are the details on how to perform various operations.
 2.For sign in :- POST method used
       :- http://localhost:8004/user/sign
 
-      ![Register user should be sign here ](image-1.png)
 
 
 3.For creating the product : POST method is used 
       :-http://localhost:8004/product/create
 
-      ![creating the product ](image-2.png)
+    
 
 4.For getting the product details which were added  : GET method is used 
       :- http://localhost:8004/product
 
-      ![featching out the added prodct ](image-3.png)
+     
 
 5.For updating the Qunatity of the product : POST method is used 
       :-http://localhost:8004/product/65f55b2f2106e6e120ad454c/updatequantity/?number=30
 
        syntax :-http://localhost:8004/product/{id}/updatequantity/?number={value}
 
-       ![For updating the Qunatity of the product](image-4.png)
+       
 
 6.For Deleting the product details : POST method used 
 
@@ -102,7 +101,7 @@ Below are the details on how to perform various operations.
 
       syntax:-http://localhost:8004/product/{product id}
 
-      ![alt text](image-5.png)
+     
 
 
 
