@@ -93,7 +93,8 @@ Below are the details on how to perform various operations.
 
        syntax :-http://localhost:8004/product/{id}/updatequantity/?number={value}
 
-       
+
+
 
 6.For Deleting the product details : POST method used 
 
